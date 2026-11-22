@@ -1,7 +1,5 @@
 -- ============================================================================
 -- DBMS EXPERIMENT 9: Indexing & Query Execution Plan Analysis (EXPLAIN)
--- Author: Sujal Singh
--- ============================================================================
 
 -- 1. Create Railway Booking Table
 CREATE TABLE RailwayBooking (
