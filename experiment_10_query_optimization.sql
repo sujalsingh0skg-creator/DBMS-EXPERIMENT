@@ -1,7 +1,5 @@
 -- ============================================================================
 -- DBMS EXPERIMENT 10: Query Optimization & Performance Benchmarking
--- Author: Sujal Singh
--- ============================================================================
 
 -- 1. Create SalesAnalytics Dataset Table
 CREATE TABLE SalesAnalytics (
