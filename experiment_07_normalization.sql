@@ -1,8 +1,6 @@
 -- ============================================================================
 -- DBMS EXPERIMENT 7: Normalization (UNF -> 1NF -> 2NF -> 3NF -> BCNF),
 -- Lossless Join & Dependency Preservation Verification
--- Author: Sujal Singh
--- ============================================================================
 
 -- 1. Create and Populate Denormalized Sales Relation
 CREATE TABLE Sales (
