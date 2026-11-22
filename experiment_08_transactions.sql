@@ -1,8 +1,6 @@
 -- ============================================================================
 -- DBMS EXPERIMENT 8: Transactions (COMMIT, ROLLBACK, SAVEPOINT) &
 -- Isolation Levels / Concurrency Anomalies
--- Author: Sujal Singh
--- ============================================================================
 
 -- 1. Create Banking Table and Insert Initial Records
 CREATE TABLE Accounts (
